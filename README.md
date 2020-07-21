@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ├── cv-transform.pkl
 ├── password-model.pkl
 ├── requirements.txt
-
+```
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
